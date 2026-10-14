@@ -233,7 +233,7 @@ answer:
 
 TODO: Predict, then test: what is the result of "5" + 5 in R?
   Run it and read the error message carefully.
-```{r}
+```{r, error=TRUE}
 "5" + 5
 ```
 answer:
